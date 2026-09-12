@@ -1,0 +1,17 @@
+# midden-lab
+
+> *A midden is an old dump for domestic waste.*
+
+This is that, but digital. A personal lab where half-finished ideas, homelab infrastructure, and the occasional thing that actually works all get buried in the same pile — some of it composts into something useful.
+
+## Dug up and cleaned off (public)
+
+- **[nix-workspace-framework](https://github.com/midden-lab/nix-workspace-framework)** — declarative, per-project dev environments using Nix flakes, direnv, and zsh. Reproducible devShells that auto-activate on `cd`, with pinned tools and a clean split between shared framework and your own private workspace config.
+
+## Still buried
+
+A few other things fermenting in private repos — `ear-candy`, `hermes`, `midden-cluster`, `nix-workspace`. They'll surface here if and when they're ready for daylight.
+
+---
+
+*Based in the US. No promises about what's structurally sound.*
