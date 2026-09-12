@@ -6,11 +6,11 @@ This is that, but digital. A personal lab where half-finished ideas, homelab inf
 
 ## Dug up and cleaned off (public)
 
-- **[nix-workspace-framework](https://github.com/midden-lab/nix-workspace-framework)** — declarative, per-project dev environments using Nix flakes, direnv, and zsh. Reproducible devShells that auto-activate on `cd`, with pinned tools and a clean split between shared framework and your own private workspace config.
+- **[nix-workspace-framework](https://github.com/midden-lab/nix-workspace-framework)** — I do a fair amount of hobby work between projects and teams; I created this to create isolated workspaces with specific tooling, env vars, scripts, etc. A declarative, per-project dev environment using Nix flakes, direnv, and zsh. Reproducible devShells that auto-activate on `cd`, with pinned tools and a clean split between shared framework and your own private workspace config. 
 
 ## Still buried
 
-A few other things fermenting in private repos — `ear-candy`, `hermes`, `midden-cluster`, `nix-workspace`. They'll surface here if and when they're ready for daylight.
+A few other things fermenting in private repos — `ear-candy`, `out-rag`, `midden-cluster`. They'll surface here if and when they're ready for daylight.
 
 ---
 
